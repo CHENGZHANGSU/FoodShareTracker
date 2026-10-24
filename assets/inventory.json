@@ -1,0 +1,31 @@
+{
+    "inventory": [
+        {
+            "_id": 1,
+            "_name": "Beef",
+            "_stock": 11.0,
+            "_category": "Meat",
+            "_unit": "kg",
+            "_inDate": "2026-10-20T23:52:56.107913",
+            "_tags": [
+                "vegan",
+                "vegetarian"
+            ],
+            "_expiryDate": "2026-10-22"
+        },
+        {
+            "_id": 2,
+            "_name": "Shrimp",
+            "_stock": 10,
+            "_category": "Meat",
+            "_unit": "kg",
+            "_inDate": "2026-10-20T23:52:56.107921",
+            "_tags": [
+                null
+            ],
+            "_expiryDate": "2026-10-30"
+        }
+    ],
+    "next_food_id": 3,
+    "minimum_stock": {}
+}

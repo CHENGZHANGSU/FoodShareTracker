@@ -1,0 +1,17 @@
+{
+    "Adam": [
+        {
+            "_id": 1,
+            "_name": "Beef",
+            "_stock": 10,
+            "_category": "Meat",
+            "_unit": "kg",
+            "_inDate": "2026-10-21T23:05:20.372570",
+            "_tags": [
+                "vegan"
+            ],
+            "_order_amount": 2,
+            "_order_status": false
+        }
+    ]
+}

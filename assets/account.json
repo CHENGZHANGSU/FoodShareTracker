@@ -1,0 +1,57 @@
+{
+    "accounts": {
+        "Client": [
+            {
+                "_account_number": "01-0001",
+                "_account_password": "pbkdf2_sha256$600000$e125caf71f74c8042ba67dce2fedc6cd$87024e4be833ac6b18b4c2c16b09d28f1d9ed371eeedc21256521d0675cde676",
+                "_name": "ABC",
+                "_phone_number": "+60-0000000000",
+                "_allow_access": true,
+                "_login_attempts": 5,
+                "_food_constraints": [],
+                "_food_orders_rec": [],
+                "_address": "KL"
+            }
+        ],
+        "Donor": [
+            {
+                "_account_number": "02-0001",
+                "_account_password": "pbkdf2_sha256$600000$8bfe7064ff0f04820fb2d2be3e1dc307$deac6484db6b3099813a278ab5c6196bafbcf8b59bdb9af98c00424cdda51d23",
+                "_name": "DEF",
+                "_phone_number": "+60-1111111111",
+                "_allow_access": true,
+                "_login_attempts": 5,
+                "_donation_rec": []
+            }
+        ],
+        "Food Bank Staff": [
+            {
+                "_account_number": "03-0001",
+                "_account_password": "pbkdf2_sha256$600000$d91084e2548bbbec8e35d14549004f3c$999cfc71d9554136b5e80449859fa887153ece7d2b67c5849028c5c108fea998",
+                "_name": "GHI",
+                "_phone_number": "+60-2222222222",
+                "_allow_access": true,
+                "_login_attempts": 5
+            },
+            {
+                "_account_number": "03-0002",
+                "_account_password": "pbkdf2_sha256$600000$8792a451e8888060b76bcd748ad5f9e9$cef0f7a13d0f72042ee85c13f1ab72606ae40eb0bab99994bc1f0562c5b9e1d5",
+                "_name": "GHI",
+                "_phone_number": "+60-2222222222",
+                "_allow_access": true,
+                "_login_attempts": 5
+            }
+        ],
+        "Admin": [
+            {
+                "_account_number": "04-0001",
+                "_account_password": "pbkdf2_sha256$600000$04106d48c9206ece64f60b8376178bc5$53a6fa10470269f4e0b648129a711508cfa196f87e3352c5aff7f85dd81311af",
+                "_name": "JKL",
+                "_phone_number": "+60-3333333333",
+                "_allow_access": true,
+                "_login_attempts": 5,
+                "_admin_privileges": true
+            }
+        ]
+    }
+}
